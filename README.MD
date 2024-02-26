@@ -45,3 +45,7 @@ This Java project implements a simplified Portfolio Management System, catering 
 #### Options info taken from embedded H2 DB
 ![api options](./assets/api_options.JPG)
 ![H2 DB](./assets/db_options.JPG)
+
+
+Note: The H2Database OPTIONS table is created manually running src/main/resources/data.sql through H2-console. 
+http://localhost:8080/h2-console/
